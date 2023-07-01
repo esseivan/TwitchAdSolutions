@@ -78,7 +78,7 @@ twitch-videoad.js text/javascript
     }
     declareOptions(window);
     var TwitchAdblockSettings = {
-        BannerVisible: true,
+        BannerVisible: false,
         ForcedQuality: null,
         ProxyType: null,
         ProxyQuality: null,
